@@ -2,7 +2,7 @@ package chapter3;
 
 public class Exponents {
 	public static void main(String[] args) {
-		//´óĞ¡Ğ´ 'e' ÊÇÏàÍ¬µÄ
+		//å¤§å°å†™ 'e' æ˜¯ç›¸åŒçš„
 		float expFloat=1.39e-43f;
 		expFloat=1.39E-43f;
 		System.out.println(expFloat);
