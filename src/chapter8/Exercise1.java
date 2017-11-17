@@ -18,5 +18,7 @@ public class Exercise1 {
 	public static void main(String[] args) {
 		new Cycle().ride(new Unicycle());
 		new Cycle().ride(new Bycycle());
+		Cycle sCycle=new Bycycle();
+		System.out.println(sCycle.toString());
 	}
 }
