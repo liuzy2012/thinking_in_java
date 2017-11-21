@@ -1,7 +1,5 @@
 package chapter8;
 
-import java.nio.charset.MalformedInputException;
-
 enum Note{
 	MIDDLE_C,C_SHARP,B_FLAT;
 }
